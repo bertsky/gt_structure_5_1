@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:25:54</Created>
+	<LastChange>2019-03-12T11:59:27</LastChange></Metadata>
+	<Page imageFilename="siemens_abhandlungen_1881_0484.jpg" imageWidth="2256" imageHeight="3086" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/></OrderedGroup></ReadingOrder>
+	<MathsRegion id="region_2">
+	<Coords points="1295,782 1584,782 1584,938 1295,938"/></MathsRegion>
+	<MathsRegion id="region_3">
+	<Coords points="1085,1040 1754,1040 1754,1144 1085,1144"/></MathsRegion>
+	<MathsRegion id="region_4">
+	<Coords points="1320,1207 1511,1207 1511,1268 1320,1268"/></MathsRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1507,550 1507,473 1369,473 1369,550"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2080,765 2080,546 761,546 761,765"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote-continued">
+	<Coords points="2083,782 2083,1899 747,1899 747,782"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote-continued">
+	<Coords points="2083,1901 2083,2666 747,2666 747,1901"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

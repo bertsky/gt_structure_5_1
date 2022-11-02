@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:26:46</Created>
+	<LastChange>2019-03-12T11:31:01</LastChange></Metadata>
+	<Page imageFilename="stock_gesellenwesen_1844_0049.jpg" imageWidth="1524" imageHeight="2656" type="content">
+	<PrintSpace>
+	<Coords points="1412,2593 1412,61 38,61 38,2593"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r4" index="0"/>
+	<RegionRefIndexed regionRef="r6" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#list_item" type="paragraph">
+	<Coords points="186,1671 1203,1671 1203,2337 186,2337"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="641,219 641,151 587,151 587,219"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1177,541 1177,261 48,261 48,541"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="261,596 261,561 54,561 54,596"/></SeparatorRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1230,594 1230,1128 1195,1128 1195,1129 1125,1129 1125,1130 1055,1130 1055,1131 985,1131 985,1132 916,1132 916,1133 846,1133 846,1134 776,1134 776,1135 706,1135 706,1136 637,1136 637,1137 567,1137 567,1138 497,1138 497,1139 427,1139 427,1140 358,1140 358,1141 288,1141 288,1142 218,1142 218,1143 148,1143 148,1144 114,1144 114,594"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="1230,1130 1230,2352 114,2352 114,1146 149,1146 149,1145 219,1145 219,1144 289,1144 289,1143 359,1143 359,1142 428,1142 428,1141 498,1141 498,1140 568,1140 568,1139 638,1139 638,1138 707,1138 707,1137 777,1137 777,1136 847,1136 847,1135 917,1135 917,1134 986,1134 986,1133 1056,1133 1056,1132 1126,1132 1126,1131 1196,1131 1196,1130"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

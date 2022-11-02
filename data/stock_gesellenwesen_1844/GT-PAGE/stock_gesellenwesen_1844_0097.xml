@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:26:46</Created>
+	<LastChange>2019-03-12T11:29:29</LastChange></Metadata>
+	<Page imageFilename="stock_gesellenwesen_1844_0097.jpg" imageWidth="1524" imageHeight="2656" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#list_item" type="paragraph">
+	<Coords points="123,243 1245,243 1245,1470 123,1470"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1219,1951 1219,1477 119,1477 119,1951"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="380,1980 380,1961 129,1961 129,1980"/></SeparatorRegion>
+	<TextRegion id="r2" type="page-number">
+	<Coords points="667,219 667,151 577,151 577,219"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1308,1974 1308,2169 1157,2169 1157,2170 855,2170 855,2171 554,2171 554,2172 252,2172 252,2173 102,2173 102,1974"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="1308,2171 1308,2385 102,2385 102,2175 253,2175 253,2174 555,2174 555,2173 856,2173 856,2172 1158,2172 1158,2171"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

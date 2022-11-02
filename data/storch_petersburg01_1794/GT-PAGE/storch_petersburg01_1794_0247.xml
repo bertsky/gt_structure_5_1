@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:26:49</Created>
+	<LastChange>2019-03-06T12:09:57</LastChange></Metadata>
+	<Page imageFilename="storch_petersburg01_1794_0247.jpg" imageWidth="1646" imageHeight="2200" type="content">
+	<PrintSpace>
+	<Coords points="1091,2035 1091,151 0,151 0,2035"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="348,258 579,258 579,324 348,324"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level2" type="heading">
+	<Coords points="129,498 801,498 801,660 129,660"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="60,726 891,726 891,1464 60,1464"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="459,1719 594,1719 594,1785 459,1785"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="870,381 870,348 59,348 59,381"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="535,708 535,681 397,681 397,708"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="586,1510 586,1481 329,1481 329,1510"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="854,1708 854,1529 64,1529 64,1708"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

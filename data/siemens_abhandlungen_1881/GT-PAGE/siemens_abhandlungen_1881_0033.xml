@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:25:54</Created>
+	<LastChange>2019-03-12T12:04:15</LastChange></Metadata>
+	<Page imageFilename="siemens_abhandlungen_1881_0033.jpg" imageWidth="2256" imageHeight="3085" type="content">
+	<PrintSpace>
+	<Coords points="1734,2896 1734,288 73,288 73,2896"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="745,425 836,425 836,489 745,489"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_3">
+	<Coords points="222,792 1406,792 1406,2162 222,2162"/></GraphicRegion>
+	<TextRegion id="region_4" type="caption">
+	<Coords points="730,2162 851,2162 851,2219 730,2219"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1451,492 1451,733 1410,733 1410,734 1328,734 1328,735 1246,735 1246,736 1164,736 1164,737 1082,737 1082,738 1000,738 1000,739 918,739 918,740 836,740 836,741 754,741 754,742 672,742 672,743 590,743 590,744 508,744 508,745 426,745 426,746 344,746 344,747 262,747 262,748 180,748 180,749 139,749 139,492"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1451,2219 1451,2619 139,2619 139,2222 345,2222 345,2221 755,2221 755,2220 1165,2220 1165,2219"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

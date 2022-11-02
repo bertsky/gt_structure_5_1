@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:25:42</Created>
+	<LastChange>2019-03-05T17:07:00</LastChange></Metadata>
+	<Page imageFilename="schwappach_forstpolitik_1894_0165.jpg" imageWidth="2445" imageHeight="3229" type="content">
+	<PrintSpace>
+	<Coords points="2032,3040 2032,244 36,244 36,3040"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="156,696 1915,696 1915,2755 156,2755"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_2">
+	<Coords points="166,840 1773,840 1773,2749 166,2749"/></TableRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="1440,2753 1516,2753 1516,2802 1440,2802"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1692,504 1692,436 1580,436 1580,504"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1292,488 1292,432 668,432 668,488"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1680,684 1680,500 288,500 288,684"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

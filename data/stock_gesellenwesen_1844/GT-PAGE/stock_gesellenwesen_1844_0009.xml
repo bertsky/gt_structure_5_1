@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:26:46</Created>
+	<LastChange>2019-03-12T11:31:24</LastChange></Metadata>
+	<Page imageFilename="stock_gesellenwesen_1844_0009.jpg" imageWidth="1524" imageHeight="2656" type="content">
+	<PrintSpace>
+	<Coords points="1458,2587 1458,48 19,48 19,2587"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1302,483 1302,1521 1268,1521 1268,1522 1202,1522 1202,1523 1136,1523 1136,1524 1070,1524 1070,1525 1004,1525 1004,1526 938,1526 938,1527 871,1527 871,1528 805,1528 805,1529 739,1529 739,1530 673,1530 673,1531 607,1531 607,1532 541,1532 541,1533 475,1533 475,1534 408,1534 408,1535 342,1535 342,1536 276,1536 276,1537 210,1537 210,1538 144,1538 144,1539 78,1539 78,1540 45,1540 45,483"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1302,1523 1302,2181 45,2181 45,1542 79,1542 79,1541 145,1541 145,1540 211,1540 211,1539 277,1539 277,1538 343,1538 343,1537 409,1537 409,1536 476,1536 476,1535 542,1535 542,1534 608,1534 608,1533 674,1533 674,1532 740,1532 740,1531 806,1531 806,1530 872,1530 872,1529 939,1529 939,1528 1005,1528 1005,1527 1071,1527 1071,1526 1137,1526 1137,1525 1203,1525 1203,1524 1269,1524 1269,1523"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

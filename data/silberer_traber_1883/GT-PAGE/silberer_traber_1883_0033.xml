@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:25:58</Created>
+	<LastChange>2019-03-12T11:56:52</LastChange></Metadata>
+	<Page imageFilename="silberer_traber_1883_0033.jpg" imageWidth="1918" imageHeight="2407" type="content">
+	<PrintSpace>
+	<Coords points="1382,2241 1382,217 58,217 58,2241"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="1033,390 1106,390 1106,472 1033,472"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="843,1966 926,1966 926,2026 843,2026"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r0" type="stamp">
+	<Coords points="555,1991 664,1991 676,1994 685,1999 694,2005 702,2014 711,2020 720,2026 732,2035 738,2050 741,2061 744,2073 747,2085 747,2108 744,2123 732,2135 717,2144 702,2147 673,2155 655,2158 644,2161 582,2161 570,2158 558,2155 547,2150 535,2144 526,2138 508,2132 497,2129 488,2123 476,2117 467,2111 464,2097 464,2082 467,2067 476,2052 485,2038 491,2029 497,2020 505,2011 514,2005 526,1999 538,1999 550,1997 564,1991"/></GraphicRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1163,470 1163,916 984,916 984,917 626,917 626,918 268,918 268,919 90,919 90,470"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1163,918 1163,1966 90,1966 90,921 269,921 269,920 627,920 627,919 985,919 985,918"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

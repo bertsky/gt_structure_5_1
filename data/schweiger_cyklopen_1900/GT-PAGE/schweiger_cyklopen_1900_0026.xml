@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:25:46</Created>
+	<LastChange>2019-03-12T12:07:16</LastChange></Metadata>
+	<Page imageFilename="schweiger_cyklopen_1900_0026.jpg" imageWidth="2363" imageHeight="3203" type="content">
+	<PrintSpace>
+	<Coords points="2256,2928 2256,256 468,256 468,2928"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/>
+	<RegionRefIndexed regionRef="region_5" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="716,340 798,340 798,415 716,415"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="header">
+	<Coords points="1363,353 1572,353 1572,435 1363,435"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="696,830 2181,830 2181,2096 696,2096"/></GraphicRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="1046,2096 1781,2096 1781,2161 1046,2161"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2216,440 2216,2455 2173,2455 2173,2456 2089,2456 2089,2457 2004,2457 2004,2458 1919,2458 1919,2459 1835,2459 1835,2460 1750,2460 1750,2461 1665,2461 1665,2462 1581,2462 1581,2463 1496,2463 1496,2464 1411,2464 1411,2465 1327,2465 1327,2466 1242,2466 1242,2467 1157,2467 1157,2468 1073,2468 1073,2469 988,2469 988,2470 903,2470 903,2471 819,2471 819,2472 734,2472 734,2473 649,2473 649,2474 565,2474 565,2475 523,2475 523,440"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="2216,2457 2216,2710 523,2710 523,2477 566,2477 566,2476 650,2476 650,2475 735,2475 735,2474 820,2474 820,2473 904,2473 904,2472 989,2472 989,2471 1074,2471 1074,2470 1158,2470 1158,2469 1243,2469 1243,2468 1328,2468 1328,2467 1412,2467 1412,2466 1497,2466 1497,2465 1582,2465 1582,2464 1666,2464 1666,2463 1751,2463 1751,2462 1836,2462 1836,2461 1920,2461 1920,2460 2005,2460 2005,2459 2090,2459 2090,2458 2174,2458 2174,2457"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

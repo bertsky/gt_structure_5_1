@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:26:31</Created>
+	<LastChange>2019-03-12T11:56:04</LastChange></Metadata>
+	<Page imageFilename="stein_verwaltungslehre07_1868_0035.jpg" imageWidth="2049" imageHeight="2806" type="content">
+	<PrintSpace>
+	<Coords points="1555,2641 1555,265 44,265 44,2641"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level4" type="heading">
+	<Coords points="171,1497 1416,1497 1416,1605 171,1605"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="231,2499 1206,2499 1206,2559 231,2559"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="831,465 831,403 751,403 751,465"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1424,1624 1424,2202 1336,2202 1336,2201 1158,2201 1158,2200 980,2200 980,2199 802,2199 802,2198 624,2198 624,2197 446,2197 446,2196 268,2196 268,2195 179,2195 179,1624"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="267,2197 267,2198 445,2198 445,2199 623,2199 623,2200 801,2200 801,2201 979,2201 979,2202 1157,2202 1157,2203 1335,2203 1335,2204 1424,2204 1424,2302 1217,2302 1217,2301 802,2301 802,2300 387,2300 387,2299 179,2299 179,2197"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="386,2301 386,2302 801,2302 801,2303 1216,2303 1216,2304 1424,2304 1424,2506 179,2506 179,2301"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1410,493 1410,1154 155,1154 155,493"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r14" type="paragraph">
+	<Coords points="1410,1156 1410,1444 155,1444 155,1156"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

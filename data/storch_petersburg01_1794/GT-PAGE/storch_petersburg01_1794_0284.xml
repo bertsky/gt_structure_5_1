@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:26:49</Created>
+	<LastChange>2019-03-12T11:27:26</LastChange></Metadata>
+	<Page imageFilename="storch_petersburg01_1794_0284.jpg" imageWidth="1629" imageHeight="2200" type="content">
+	<PrintSpace>
+	<Coords points="1628,2021 1628,156 535,156 535,2021"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="1047,267 1272,267 1272,327 1047,327"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#heading_level2" type="heading">
+	<Coords points="813,483 1503,483 1503,657 813,657"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="753,777 1581,777 1581,1527 753,1527"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r0">
+	<Coords points="1559,394 1559,343 756,343 756,394"/></SeparatorRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1259,727 1259,700 1135,700 1135,727"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1272,1564 1272,1535 1035,1535 1035,1564"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1564,1740 1564,1613 737,1613 737,1740"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

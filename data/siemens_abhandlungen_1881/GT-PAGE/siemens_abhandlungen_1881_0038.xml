@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:25:54</Created>
+	<LastChange>2019-03-12T12:00:40</LastChange></Metadata>
+	<Page imageFilename="siemens_abhandlungen_1881_0038.jpg" imageWidth="2256" imageHeight="3086" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="1492,397 1601,397 1601,463 1492,463"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="paragraph">
+	<Coords points="822,462 2203,462 2203,1307 822,1307"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_3">
+	<Coords points="865,702 1592,702 1592,2272 865,2272"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="2169,2573 2169,1307 800,1307 800,2573"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></GraphicRegion>
+	<TextRegion id="region_4" type="caption">
+	<Coords points="1162,2272 1276,2272 1276,2327 1162,2327"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

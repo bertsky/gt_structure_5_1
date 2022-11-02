@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:26:33</Created>
+	<LastChange>2019-03-06T11:52:25</LastChange></Metadata>
+	<Page imageFilename="steinen_naturvoelker_1894_0018.jpg" imageWidth="2700" imageHeight="3252" type="content">
+	<PrintSpace>
+	<Coords points="2644,3064 2644,292 700,292 700,3064"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#heading_level1" type="heading">
+	<Coords points="1050,870 2229,870 2229,1009 1050,1009"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_3">
+	<Coords points="1500,1020 1794,1020 1794,1086 1500,1086"/></SeparatorRegion>
+	<TextRegion id="region_4" custom="#list_item" type="paragraph">
+	<Coords points="836,1170 2493,1170 2493,2962 836,2962"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="2488,1172 2488,1108 824,1108 824,1172"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

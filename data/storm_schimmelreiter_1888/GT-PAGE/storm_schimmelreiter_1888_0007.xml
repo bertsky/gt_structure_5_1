@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:27:14</Created>
+	<LastChange>2019-03-06T12:27:37</LastChange></Metadata>
+	<Page imageFilename="storm_schimmelreiter_1888_0007.jpg" imageWidth="1798" imageHeight="2362" type="content">
+	<PrintSpace>
+	<Coords points="1471,2194 1471,154 74,154 74,2194"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_2">
+	<Coords points="573,1373 888,1373 888,1678 573,1678"/></GraphicRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1020,1305 1020,1002 422,1002 422,1305"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1114,1934 1114,1734 357,1734 357,1934"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1220,800 1220,488 262,488 262,800"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="865,902 865,851 605,851 605,902"/></SeparatorRegion>
+	<NoiseRegion id="r4">
+	<Coords points="1508,480 1508,182 437,182 437,480"/></NoiseRegion></Page></PcGts>
