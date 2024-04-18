@@ -92,215 +92,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             </thead>
             <tbody>
                <tr>
-                  <td>silesius_schlussrime_1657</td>
-                  <td>85</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stifter_nachsommer03_1857</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>silesius_seelenlust01_1657</td>
-                  <td>87</td>
-                  <td/>
-                  <td/>
-                  <td>10</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>sturm_kunst_1670</td>
-                  <td>155</td>
-                  <td/>
-                  <td/>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>steinen_naturvoelker_1894</td>
-                  <td>57</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>spielhagen_problematische01_1861</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>siemens_telegraphie_1866</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stieler_venus_1660</td>
-                  <td>72</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>storch_petersburg01_1794</td>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stifter_steine02_1853</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stein_verwaltungslehre07_1868</td>
-                  <td>67</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
                   <td>seckendorff_fuerstenstaat_1656</td>
                   <td>104</td>
                   <td/>
@@ -320,199 +111,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>28</td>
                </tr>
                <tr>
-                  <td>seip_gesundbrunnen_1717</td>
-                  <td>93</td>
+                  <td>schwenckfeld_hirschberischen_1619</td>
+                  <td>90</td>
                   <td/>
                   <td/>
                   <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>storch_petersburg02_1794</td>
-                  <td>55</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>sulzer_theorie02_1774</td>
-                  <td>201</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>spalding_bestimmung_1749</td>
-                  <td>52</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>13</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>15</td>
-               </tr>
-               <tr>
-                  <td>schwenter_deliciae_1636</td>
-                  <td>129</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>soemmerring_telegraphen_1811</td>
-                  <td>79</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>2</td>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>schwann_mikroskopische_1839</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>swedenborg_schriften01_1776</td>
-                  <td>102</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>stieber_magni_1716</td>
-                  <td>72</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>1</td>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>siebold_suesswasserfische_1863</td>
-                  <td>49</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>16</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>strouhal_tonerregung_1878</td>
-                  <td>70</td>
-                  <td/>
                   <td/>
                   <td/>
                   <td>5</td>
@@ -524,152 +127,17 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
+                  <td>24</td>
                </tr>
                <tr>
-                  <td>storm_immensee_1852</td>
-                  <td>40</td>
+                  <td>suessmilch_ordnung_1741</td>
+                  <td>81</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td>9</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stein_verwaltungslehre01_1865</td>
-                  <td>46</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>siegmeyer_tonsetzkunst_1822</td>
-                  <td>51</td>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>schwab_sagen02_1839</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>siever_briefe_1796</td>
-                  <td>72</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>simmel_geld_1900</td>
-                  <td>39</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>seume_syrakus_1803</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>siegemund_unterricht_1690</td>
-                  <td>132</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -681,8 +149,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>24</td>
                </tr>
                <tr>
-                  <td>spener_bedencken03_1702</td>
-                  <td>117</td>
+                  <td>stifter_nachsommer02_1857</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>seyfried_medulla_1679</td>
+                  <td>90</td>
                   <td/>
                   <td/>
                   <td/>
@@ -700,166 +187,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>28</td>
                </tr>
                <tr>
-                  <td>strauss_jesus02_1836</td>
-                  <td>64</td>
+                  <td>strauss_jesus01_1835</td>
+                  <td>71</td>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>spielhagen_problematische03_1861</td>
-                  <td>43</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>spyri_heidi_1880</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stieve_hoffceremoniel_1715</td>
-                  <td>88</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>spener_bedencken04_1702</td>
-                  <td>162</td>
-                  <td/>
-                  <td/>
                   <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>30</td>
-               </tr>
-               <tr>
-                  <td>stolbergstolberg_gedichte_1779</td>
-                  <td>84</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>12</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>spener_bedencken01_1700</td>
-                  <td>77</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>spielhagen_problematische04_1861</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stock_gesellenwesen_1844</td>
-                  <td>69</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>12</td>
                   <td/>
                   <td/>
                   <td/>
@@ -890,25 +225,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>suessmilch_ordnung_1741</td>
-                  <td>81</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
                   <td>scriver_schaefflein_1672</td>
                   <td>138</td>
                   <td/>
@@ -928,11 +244,49 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>spielhagen_problematische02_1861</td>
-                  <td>41</td>
+                  <td>spindler_jugendfruechte_1745</td>
+                  <td>207</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>schwenter_deliciae_1636</td>
+                  <td>129</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>silberer_traber_1883</td>
+                  <td>50</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -947,7 +301,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>stifter_steine01_1853</td>
+                  <td>stifter_steine02_1853</td>
                   <td>40</td>
                   <td/>
                   <td/>
@@ -966,33 +320,90 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>silesius_hirten04_1657</td>
-                  <td>85</td>
+                  <td>strauss_jesus02_1836</td>
+                  <td>64</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td>20</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
                </tr>
                <tr>
-                  <td>sperander_negotiant_1706</td>
-                  <td>136</td>
+                  <td>siever_briefe_1796</td>
+                  <td>72</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>stieber_magni_1716</td>
+                  <td>72</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td>1</td>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>spener_bedencken01_1700</td>
+                  <td>77</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>swedenborg_schriften01_1776</td>
+                  <td>102</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1004,14 +415,33 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>27</td>
                </tr>
                <tr>
-                  <td>semmelweis_kindbettfieber_1861</td>
-                  <td>48</td>
+                  <td>storm_schimmelreiter_1888</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>stein_verwaltungslehre02_1866</td>
+                  <td>46</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1023,45 +453,26 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>spener_bedencken02_1701</td>
-                  <td>100</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
+                  <td>steinen_naturvoelker_1894</td>
+                  <td>57</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>25</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>sturm_civilbaukunst_1699</td>
-                  <td>94</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-               </tr>
-               <tr>
-                  <td>stifter_nachsommer01_1857</td>
+                  <td>storm_immensee_1852</td>
                   <td>40</td>
                   <td/>
                   <td/>
@@ -1099,49 +510,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>simmel_differenzierung_1890</td>
-                  <td>60</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>suppius_oden_1749</td>
-                  <td>80</td>
+                  <td>sperander_negotiant_1706</td>
+                  <td>136</td>
                   <td/>
                   <td/>
                   <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>spindler_jugendfruechte_1745</td>
-                  <td>207</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
                   <td/>
                   <td/>
                   <td>4</td>
@@ -1156,8 +529,122 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>27</td>
                </tr>
                <tr>
-                  <td>storm_aquis_1877</td>
-                  <td>42</td>
+                  <td>spener_natur_1687</td>
+                  <td>93</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>sturm_kunst_1670</td>
+                  <td>155</td>
+                  <td/>
+                  <td/>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>stock_gesellenwesen_1844</td>
+                  <td>69</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>sprengel_blumen_1793</td>
+                  <td>103</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>siegemund_unterricht_1690</td>
+                  <td>132</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>schweiger_cyklopen_1900</td>
+                  <td>130</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spielhagen_problematische03_1861</td>
+                  <td>43</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1175,14 +662,280 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>strauss_jesus01_1835</td>
-                  <td>71</td>
+                  <td>spielhagen_problematische02_1861</td>
+                  <td>41</td>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>storch_petersburg02_1794</td>
+                  <td>55</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spener_friede_1686</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>sturm_civilbaukunst_1699</td>
+                  <td>94</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>stieler_venus_1660</td>
+                  <td>72</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>silesius_hirten04_1657</td>
+                  <td>85</td>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>schweiger_armenien_1878</td>
+                  <td>62</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>schwann_mikroskopische_1839</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>siemens_telegraphie_1866</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>storch_petersburg01_1794</td>
+                  <td>60</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spener_piadesideria_1676</td>
+                  <td>57</td>
+                  <td/>
+                  <td/>
                   <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>seume_syrakus_1803</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>stolbergstolberg_gedichte_1779</td>
+                  <td>84</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>stifter_nachsommer01_1857</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>stifter_steine01_1853</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1196,82 +949,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                <tr>
                   <td>steinthal_grammatik_1855</td>
                   <td>47</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>stein_handbuch_1870</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>schwab_sagen03_1840</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>spee_cautio_1647</td>
-                  <td>86</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>schweiger_armenien_1878</td>
-                  <td>62</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1308,33 +985,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>seyfried_medulla_1679</td>
-                  <td>90</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>simmel_differenzierung_1890</td>
+                  <td>60</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>sprengel_blumen_1793</td>
-                  <td>103</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1344,25 +1002,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>20</td>
-               </tr>
-               <tr>
-                  <td>spener_natur_1687</td>
-                  <td>93</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
                </tr>
                <tr>
                   <td>stirner_einzige_1845</td>
@@ -1384,8 +1023,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>stifter_nachsommer02_1857</td>
-                  <td>40</td>
+                  <td>sulzer_theorie02_1774</td>
+                  <td>201</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>schwab_sagen02_1839</td>
+                  <td>42</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1403,11 +1061,237 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>schwenckfeld_hirschberischen_1619</td>
-                  <td>90</td>
+                  <td>spielhagen_problematische04_1861</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>stifter_nachsommer03_1857</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>storm_aquis_1877</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spielhagen_problematische01_1861</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>suppius_oden_1749</td>
+                  <td>80</td>
                   <td/>
                   <td/>
                   <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>stein_verwaltungslehre07_1868</td>
+                  <td>67</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>stein_verwaltungslehre01_1865</td>
+                  <td>46</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spener_bedencken04_1702</td>
+                  <td>162</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>30</td>
+               </tr>
+               <tr>
+                  <td>stein_handbuch_1870</td>
+                  <td>42</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spener_bedencken03_1702</td>
+                  <td>117</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>stieve_hoffceremoniel_1715</td>
+                  <td>88</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>semmelweis_kindbettfieber_1861</td>
+                  <td>48</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>strouhal_tonerregung_1878</td>
+                  <td>70</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td>5</td>
@@ -1419,11 +1303,146 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>24</td>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>stein_verwaltungslehre02_1866</td>
-                  <td>46</td>
+                  <td>siegmeyer_tonsetzkunst_1822</td>
+                  <td>51</td>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spalding_bestimmung_1749</td>
+                  <td>52</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>15</td>
+               </tr>
+               <tr>
+                  <td>siebold_suesswasserfische_1863</td>
+                  <td>49</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>schwab_sagen03_1840</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>soemmerring_telegraphen_1811</td>
+                  <td>79</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td>2</td>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>spee_cautio_1647</td>
+                  <td>86</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>silesius_seelenlust01_1657</td>
+                  <td>87</td>
+                  <td/>
+                  <td/>
+                  <td>10</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>simmel_geld_1900</td>
+                  <td>39</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1441,19 +1460,19 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>storm_schimmelreiter_1888</td>
-                  <td>42</td>
+                  <td>silesius_schlussrime_1657</td>
+                  <td>85</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1479,33 +1498,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>spener_piadesideria_1676</td>
-                  <td>57</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>spyri_heidi_1880</td>
+                  <td>42</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>schweiger_cyklopen_1900</td>
-                  <td>130</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1517,14 +1517,33 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>spener_friede_1686</td>
-                  <td>76</td>
+                  <td>spener_bedencken02_1701</td>
+                  <td>100</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>seip_gesundbrunnen_1717</td>
+                  <td>93</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1534,25 +1553,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td>21</td>
-               </tr>
-               <tr>
-                  <td>silberer_traber_1883</td>
-                  <td>50</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
                </tr>
             </tbody>
          </table>
