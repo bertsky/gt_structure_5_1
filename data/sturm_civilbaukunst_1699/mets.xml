@@ -20,25 +20,25 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>UB Heidelberg</mods:physicalLocation>
+                  <mods:shelfLocator>UB Heidelberg 91 B 2615 RES.</mods:shelfLocator>
+                  <mods:url>https://katalog.ub.uni-heidelberg.de/titel/65935186</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Braunschweig</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1699</mods:dateIssued>
+                  <mods:publisher>Keßler</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Fachtext</mods:classification>
+               <mods:classification authority="DTA">Architektur</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Nicolai Goldmanns vollständige Anweisung zu der Civil-Bau-Kunst</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
                <mods:language>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Sturm</mods:namePart>
+                  <mods:namePart type="given">Leonhard Christoph</mods:namePart>
+                  <mods:displayForm>Leonhard Christoph Sturm</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>[12] Bl., 180 S., 74 Bl., [6] Bl., 165 [i.e. 135] S., XIII Bl., Bl. XIV.A - XIV.B, Bl. XV - XIX</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Nicolai Goldmanns vollständige Anweisung zu der Civil-Bau-Kunst</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
