@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, H: P 314.12° Helmst.</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/p-314-12f-helmst/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/p-314-12f-helmst/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
